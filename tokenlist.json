@@ -14,7 +14,7 @@
             "symbol": "SHINY",
             "decimals": 18,
             "chainId": 8453,
-            "logoURI": ""
+            "logoURI": "https://raw.githubusercontent.com/baldfinance/token_list/main/logo.png"
         },
         {
             "name": "Wrapped Canto",
