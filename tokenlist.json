@@ -233,22 +233,6 @@
             "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/ETH.svg"
         },
         {
-            "name": "Leet",
-            "address": "0x0963a1aBAF36Ca88C21032b82e479353126A1C4b",
-            "symbol": "LEET",
-            "decimals": 18,
-            "chainId": 59144,
-            "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/leet.png"
-        },
-        {
-            "name": "xLEET",
-            "address": "0xdf0D02351A3e7A21D3936cf1CFd1ee554Cee0a80",
-            "symbol": "XLEET",
-            "decimals": 18,
-            "chainId": 59144,
-            "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/xleet.png"
-        },
-        {
             "name": "Linea Kishu",
             "address": "0x07c14eCf64A6052B514f10C5Dec7a73C862853A5",
             "symbol": "LKISHU",
@@ -288,22 +272,7 @@
             "chainId": 8453,
             "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/ETH.svg"
         },
-        {
-            "name": "Leet",
-            "address": "0x0963a1aBAF36Ca88C21032b82e479353126A1C4b",
-            "symbol": "LEET",
-            "decimals": 18,
-            "chainId": 8453,
-            "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/leet.png"
-        },
-        {
-            "name": "xLEET",
-            "address": "0xdf0D02351A3e7A21D3936cf1CFd1ee554Cee0a80",
-            "symbol": "XLEET",
-            "decimals": 18,
-            "chainId": 8453,
-            "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/xleet.png"
-        },
+
         {
             "name": "Bald",
             "address": "0x27D2DECb4bFC9C76F0309b8E88dec3a601Fe25a8",
